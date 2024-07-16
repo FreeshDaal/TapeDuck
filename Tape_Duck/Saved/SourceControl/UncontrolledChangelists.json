@@ -5,8 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/UnrealE/Projects/TapeDuck/Tape_Duck/Content/ParkLevel.umap",
-				"D:/MyWork/Git/TapeDuck/Tape_Duck/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/logotime.uasset",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/UIbox.uasset",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/UIbox_hover.uasset",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/UIbox_meme.uasset",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/uivideo_background.uasset",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/MainMenuLevel.umap",
+				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UIMainMenu.uasset"
 			]
 		}
 	]
