@@ -11,3 +11,11 @@ Tape_Duck/Saved/Telemetry/Telemetry.json
 *.json
 Tape_Duck/Saved/Telemetry/Telemetry.json
 Tape_Duck/Saved/Logs/Tape_Duck.log
+*.bin
+*.ush
+*.ush
+*.ini
+*.log
+*.txt
+*.json
+Tape_Duck/Tape_Duck.uproject
