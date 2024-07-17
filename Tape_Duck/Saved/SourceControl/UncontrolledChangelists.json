@@ -5,6 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/PlayerBlueprint/BP_Player.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Input/IMC_TapeDuck.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/LevelPrototyping/TestMap.umap",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/BP_TestPickUpObject.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Input/Actions/IA_Quack.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/PlayerBlueprint/BP_PickUpHologram.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/FirstPerson/Input/Actions/IA_Grab.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/TestStaticMeshObject/blinn6.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/TestStaticMeshObject/bone.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/TestStaticMeshObject/Glass2.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/TestStaticMeshObject/metal.uasset",
+				"C:/Users/Blank/Documents/Unreal Projects/TapeDuck/TapeDuck/Tape_Duck/Content/Testing/TestStaticMeshObject/Test.uasset",
 				"D:/MyWork/Git/TapeDuck/Tape_Duck/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
