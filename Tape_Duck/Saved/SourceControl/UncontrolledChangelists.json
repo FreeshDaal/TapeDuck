@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UnrealE/Projects/TapeDuck/Tape_Duck/Content/ParkLevel.umap",
+				"E:/UnrealE/Projects/TapeDuck/Tape_Duck/Content/Blueprints/PlaygroundArea/AcornPickup.uasset",
+				"E:/UnrealE/Projects/TapeDuck/Tape_Duck/Content/Blueprints/PlaygroundArea/SeesawActor.uasset",
 				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/logotime.uasset",
 				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/UIbox.uasset",
 				"D:/Desktop/TAPE DUCK REPO/TapeDuck/Tape_Duck/Content/UI/UI_Assets/UIbox_hover.uasset",
